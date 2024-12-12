@@ -1,0 +1,1 @@
+{"name": "mcp-server-fetch","version": "1.0.0","description": "MCP Server implementation with fetch capabilities","main": "src/index.js","scripts": {"start": "node src/index.js","test": "jest"},"dependencies": {"express": "^4.18.2","node-fetch": "^3.3.2","cors": "^2.8.5","dotenv": "^16.3.1"},"devDependencies": {"jest": "^29.7.0","supertest": "^6.3.3"}}
